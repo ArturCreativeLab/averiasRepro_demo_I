@@ -15,7 +15,6 @@ module.exports = {
     extend: {
       ...defaultConfig.theme.extend,
       colors: {
-        ...defaultConfig.theme.extend.colors,
         reproexpres: {
           50: "#eff6ff",
           100: "#dbeafe",
